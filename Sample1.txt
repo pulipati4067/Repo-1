@@ -1,0 +1,4 @@
+add multiple files to git staging/index area 
+git add . or * or -A or filenames (. to perform the action on all the files in the path)
+touch file2 file3
+git add file2 file3
